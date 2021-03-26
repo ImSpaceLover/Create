@@ -1823,7 +1823,7 @@
 
 	"_": "->------------------------]  Ponder Content  [------------------------<-",
 
-	"create.ponder.hold_to_ponder": "UNLOCALIZED: Hold [%1$s] to Ponder",
+	"create.ponder.hold_to_ponder": "UNLOCALIZED: Удерживайте [%1$s], чтобы вообразить",
 	"create.ponder.subject": "UNLOCALIZED: Subject of this scene",
 	"create.ponder.pondering": "UNLOCALIZED: Pondering about...",
 	"create.ponder.identify_mode": "UNLOCALIZED: Identify mode active.\nUnpause with [%1$s]",
